@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "1fbce2eca1f6c707",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1f32d1e38e9e859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b71a68856bbc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Software Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4178e6afe9e8071",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "8e6e1128ccf5fbb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supporting Software/Mentioned or Used Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67924a626a224763",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f7c5871557b7f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "087a91dfa27396ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "210d43b85b3bfa6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32a66aa2640a04bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eda3551739c9964f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f705935930b46318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "622e078ebc709d96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Supporting Software/Mentioned or Used Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92b85defb8f66e51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Supporting Software/Mentioned or Used Software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "058c33daa35f5742",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a07e5c24fb3c511e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Supporting Software/Mentioned or Used Software.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e6e1128ccf5fbb4",
+  "lastOpenFiles": [
+    "Supporting Software/Mentioned or Used Software.md",
+    "Untitled",
+    "Supporting Software",
+    "IBM Certifications (AI Dev, Full Stack)",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Software Testing.md",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Software Documentation.md",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Quality Software.md",
+    "Writing Notebook/Worlds.md",
+    "Writing Notebook/Systems.md",
+    "Testing.md",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Requirements.md",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Software Development Methodolgies.md",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Software Dev vs Engineering.md",
+    "Software Engineering Course Notes/Software Versions.md",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/SDLC.md",
+    "Writing Notebook/Portal to Nova Roma Notes.md",
+    "Writing Notebook",
+    "Untitled 5",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
+    "Untitled 1",
+    "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes",
+    "Writing Notebook/Bestiary.md",
+    "Writing Notebook/Characters.md",
+    "2024-03-22.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
