@@ -20,29 +20,19 @@
             }
           },
           {
-            "id": "d4178e6afe9e8071",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "8e6e1128ccf5fbb4",
+            "id": "cea7493f3fbb3c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supporting Software/Mentioned or Used Software.md",
+                "file": "Babel Fish/Development Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supporting Software/Mentioned or Used Software.md",
+                "file": "Babel Fish/Development Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supporting Software/Mentioned or Used Software.md",
+                "file": "Babel Fish/Development Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supporting Software/Mentioned or Used Software.md"
+                "file": "Babel Fish/Development Notes.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e6e1128ccf5fbb4",
+  "active": "cea7493f3fbb3c96",
   "lastOpenFiles": [
+    "TODO.md",
+    "Babel Fish/Development Notes.md",
     "Supporting Software/Mentioned or Used Software.md",
-    "Untitled",
+    "Babel Fish",
     "Supporting Software",
     "IBM Certifications (AI Dev, Full Stack)",
     "IBM Certifications (AI Dev, Full Stack)/Software Engineering Course Notes/Software Testing.md",

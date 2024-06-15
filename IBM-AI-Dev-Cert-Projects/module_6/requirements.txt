@@ -1,0 +1,5 @@
+Flask
+Flask_Cors
+requests
+ibm_watson_machine_learning
+ibm_watsonx_ai
