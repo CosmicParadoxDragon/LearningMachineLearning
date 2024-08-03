@@ -1,5 +1,5 @@
 # LearningMachineLearning
-Doing/Copying/Rewriting/Studying Some Project From Online Lists
+Doing/Copying/Rewriting/Studying Some Project From Online Lists | Including Work from the IBM AI Engineer Certification
 
 ---
 
